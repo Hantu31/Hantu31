@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hantu31
+- 👋 Hi, I’m rifky
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning progammer
 - 💞️ I’m looking to collaborate on coding 
